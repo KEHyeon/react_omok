@@ -2,7 +2,7 @@ import Ruleimg from '../img/rule.png'
 function Rule() {
     return(
         <div>
-            <img src={Ruleimg} width="600px" height="600px"></img>
+            <img src={Ruleimg} width="378px" height="777px"></img>
         </div>
     );
 }

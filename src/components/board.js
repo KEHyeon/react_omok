@@ -1,6 +1,7 @@
 import Black from '../img/black.png';
 import White from '../img/white.png';
-import checkFiveLine from '../checkFiveLine.js'
+import checkFiveLine from '../js/checkFiveLine.js'
+import resetGame from '../js/resetGame.js'
 import {Button} from 'react-bootstrap';
 import {useState} from 'react';
 
